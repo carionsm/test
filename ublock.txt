@@ -5,8 +5,8 @@
 ##.top-ad-padding.row
 ##.mt-1.show.fade.alert-dismissible.alert-danger.alert
 ##.toon-viewer-warp > div.col-12
-##div.container.banner.mt-2:style(display: none !important;)
 ##.nav_category.nav-link:style(display: none !important;)
+##.container.banner.mt-2
 
 ||*/poster_js/11.js$script
 ||*/poster_js/13.js$script
