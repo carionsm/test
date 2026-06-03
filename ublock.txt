@@ -4,4 +4,5 @@
 ! 2026. 6. 3. https://blacktoon410.com
 blacktoon410.com##.top-ad-padding.row
 blacktoon410.com##.mt-1.show.fade.alert-dismissible.alert-danger.alert
-
+##.toon-viewer-warp > div.col-12
+##div.mt-2.banner.container > .row:style(visibility:hidden!important;)
