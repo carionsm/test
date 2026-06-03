@@ -2,7 +2,7 @@
 ||sbxh3.com/b1780036697285/_next/static/chunks/93794-2003f37ab19649c7.js
 
 ! 2026. 6. 3. https://blacktoon410.com
-*m##.top-ad-padding.row
+*##.top-ad-padding.row
 *##.top-ad-padding.row
 *##.mt-1.show.fade.alert-dismissible.alert-danger.alert
 *##.toon-viewer-warp > div.col-12
