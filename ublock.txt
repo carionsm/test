@@ -2,13 +2,12 @@
 ||sbxh3.com/b1780036697285/_next/static/chunks/93794-2003f37ab19649c7.js
 
 ! 2026. 6. 3. https://blacktoon410.com
-blacktoon*.com##.top-ad-padding.row
-blacktoon*.com##.top-ad-padding.row
-blacktoon*.com##.mt-1.show.fade.alert-dismissible.alert-danger.alert
-blacktoon*.com##.toon-viewer-warp > div.col-12
-blacktoon*.com##div.container.banner.mt-2:style(display: none !important;)
-blacktoon*.com##.nav_category.nav-link:style(display: none !important;)
+##.top-ad-padding.row
+##.mt-1.show.fade.alert-dismissible.alert-danger.alert
+##.toon-viewer-warp > div.col-12
+##div.container.banner.mt-2:style(display: none !important;)
+##.nav_category.nav-link:style(display: none !important;)
 
-||blacktoon*.com/poster_js/11.js$script
-||blacktoon*.com/poster_js/13.js$script
-||blacktoon*.com/poster_js/14.js$script
+||*/poster_js/11.js$script
+||*/poster_js/13.js$script
+||*/poster_js/14.js$script
