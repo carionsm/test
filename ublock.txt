@@ -5,7 +5,7 @@
 ##.top-ad-padding.row
 ##.mt-1.show.fade.alert-dismissible.alert-danger.alert
 ##.toon-viewer-warp > div.col-12
-##.nav_category.nav-link:style(display: none !important;)
+##.nav_category.nav-link
 ##.container.banner.mt-2
 
 ||*/poster_js/11.js$script
